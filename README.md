@@ -1,7 +1,7 @@
 # NeuralNet
 A neural network implementation written from scratch (i.e. no ML library is used) that graphically displays the network structure, weights, and biases while it is training.
 
-You can configure any network shape, but convolution networks are not displayed well graphically.
+You can configure any network topology, but convolutional networks are not displayed well graphically.
 
 Run 'TestNeuralNet' for a demo.
 
